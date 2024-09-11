@@ -12,6 +12,7 @@ def exponantial(x,y):
     return x**y
 def floor_division(x,y):
     return x//y
+    print("this is a basic calculator program!")
 a=int(input("enter first number: "))
 b=int(input("enter second number: ")) 
 operators=input("choose any operator: (+ , - , * , / , % ,** , //): ")
